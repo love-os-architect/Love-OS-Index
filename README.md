@@ -71,15 +71,15 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
 ## 🧪 Prototypes & Versions (Labs)
 > Experimental builds and historical versions.
 
-* **[Love-OS-v0.6.md](./Love-OS-v0.6.md)** ✨ *(Latest Spec)*
+* **[Love-OS-v0.6.md](https://github.com/love-os-architect/Love-OS-v0.6.md)** ✨ *(Latest Spec)*
     * The current cutting-edge specification.
-* **[LoveOS-v04](./LoveOS-v04)** 🏛️ *(Legacy)*
+* **[LoveOS-v04](https://github.com/love-os-architect/LoveOS-v04)** 🏛️ *(Legacy)*
     * Stable legacy version archive.
-* **[Love-OS-Prototype](./Love-OS-Prototype)** 🚧
+* **[Love-OS-Prototype](https://github.com/love-os-architect/Love-OS-Prototype)** 🚧
     * Early stage functional prototypes.
-* **[rc-simulation_engine.py](./rc-simulation_engine.py)** 🕹️
+* **[rc-simulation_engine.py](https://github.com/love-os-architect/rc-simulation_engine.py)** 🕹️
     * Resource Circulation simulation script.
-* **[notebooks](./notebooks)** 📓
+* **[notebooks](https://github.com/love-os-architect/notebooks)** 📓
     * Jupyter notebooks for calculations and experiments.
 
 ---
@@ -87,10 +87,10 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
 ## 📂 Miscellaneous & Meta
 > Project management and meta-data.
 
-* **[Genesis-Commit](./Genesis-Commit)** - The first spark.
-* **[ROADMAP.md](./ROADMAP.md)** - Future development path.
-* **[LICENSE](./LICENSE)** - Usage rights and permissions.
-* **[README](./README)** - GitHub profile repository.
+* **[Genesis-Commit](https://github.com/love-os-architect/Genesis-Commit)** - The first spark.
+* **[ROADMAP.md](https://github.com/love-os-architect/ROADMAP.md)** - Future development path.
+* **[LICENSE](https://github.com/love-os-architect/LICENSE)** - Usage rights and permissions.
+* **[README](https://github.com/love-os-architect/README)** - GitHub profile repository.
 
 ---
 
