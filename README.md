@@ -13,9 +13,9 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
 ## 🌌 Central Command (Main Hubs)
 > The headquarters and primary production environments.
 
-* **[AI-Production](./AI-Production)** 🏭
+* **[AI-Production](https://github.com/love-os-architect/AI-Production)** 🏭
     * Central foundry for code generation and system integration.
-* **[Love-OS](./Love-OS)** 💜
+* **[Love-OS](https://github.com/love-os-architect/Love-OS)** 💜
     * The main project repository representing the OS itself.
 * **[Love-OS-Index](./)** 📍
     * *You are here.* The map of the entire ecosystem.
@@ -25,13 +25,13 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
 ## 💞 Physics of Love (Core Engines)
 > The active engines implementing the $Y = L/R$ equations.
 
-* **[Physics-of-Love-Economy](./Physics-of-Love-Economy)** 💹
+* **[Physics-of-Love-Economy](https://github.com/love-os-architect/Physics-of-Love-Economy)** 💹
     * Mathematical models for the Love Economy and value circulation.
-* **[Love-OS-The-Physics-of-Relationships](./Love-OS-The-Physics-of-Relationships)** 👫
+* **[Love-OS-The-Physics-of-Relationships](https://github.com/love-os-architect/Love-OS-The-Physics-of-Relationships)** 👫
     * Dynamics module for calculating relationship vectors ($L, \theta, R$).
-* **[love-os-emotion-engine](./love-os-emotion-engine)** 💓
+* **[love-os-emotion-engine](https://github.com/love-os-architect/love-os-emotion-engine)** 💓
     * The emotional processing unit and sentiment analysis kernel.
-* **[love-os-gravity](./love-os-gravity)** 🪐 *(Private)*
+* **[love-os-gravity](https://github.com/love-os-architect/love-os-gravity)** 🪐 *(Private)*
     * Core attraction algorithms and gravity simulation.
 
 ---
@@ -39,11 +39,11 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
 ## ⚙️ System Infrastructure (Kernels)
 > Low-level operations and system resources.
 
-* **[love-core](./love-core)** 🧬
+* **[love-core](https://github.com/love-os-architect/love-core)** 🧬
     * The fundamental shell scripts and system baselines.
-* **[love-os-kernel](./love-os-kernel)** 🖥️
+* **[love-os-kernel](https://github.com/love-os-architect/love-os-kernel/blob/main/README.md)** 🖥️
     * The core processing kernel for the OS.
-* **[script.js](./script.js)** / **[styles.css](./styles.css)** 🎨
+* **[script.js](https://github.com/love-os-architect/script.js)** / **[styles.css](https://github.com/love-os-architect/styles.css)** 🎨
     * Frontend assets and interaction scripts.
 
 ---
@@ -52,19 +52,19 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
 > The philosophical and theoretical foundations (Source of Truth).
 
 ### 📖 Core Theory
-* **[LOVE_OS_THEORY.md](./LOVE_OS_THEORY.md)** - The grand unified theory.
-* **[docs-THEORY_OF_NEGENTROPY.md](./docs-THEORY_OF_NEGENTROPY.md)** - Thermodynamics of love.
-* **[docs-COSMOLOGY.md](./docs-COSMOLOGY.md)** - Cosmological perspective of the OS.
-* **[GENESIS_AND_EVOLUTION.md](./GENESIS_AND_EVOLUTION.md)** - Origin and evolution history.
-* **[MANIFESTO.md](./MANIFESTO.md)** - The project's declaration of intent.
+* **[LOVE_OS_THEORY.md](https://github.com/love-os-architect/LOVE_OS_THEORY.md)** - The grand unified theory.
+* **[docs-THEORY_OF_NEGENTROPY.md](https://github.com/love-os-architect/docs-THEORY_OF_NEGENTROPY.md)** - Thermodynamics of love.
+* **[docs-COSMOLOGY.md](https://github.com/love-os-architect/docs-COSMOLOGY.md)** - Cosmological perspective of the OS.
+* **[GENESIS_AND_EVOLUTION.md](https://github.com/love-os-architect/GENESIS_AND_EVOLUTION.md)** - Origin and evolution history.
+* **[MANIFESTO.md](https://github.com/love-os-architect/MANIFESTO.md)** - The project's declaration of intent.
 
 ### 📝 Specifications & Whitepapers
-* **[docs-WHITEPAPER.md](./docs-WHITEPAPER.md)** - Technical whitepaper.
-* **[ARCHITECTURE.md](./ARCHITECTURE.md)** - System architecture overview.
-* **[docs-DESIGN_DOC.md](./docs-DESIGN_DOC.md)** - Detailed design documents.
-* **[IMPLEMENTATION.md](./IMPLEMENTATION.md)** - Implementation guides.
-* **[docs-GLOSSARY.md](./docs-GLOSSARY.md)** - Terminology and definitions.
-* **[docs](./docs)** - General documentation storage.
+* **[docs-WHITEPAPER.md](https://github.com/love-os-architect/docs-WHITEPAPER.md)** - Technical whitepaper.
+* **[ARCHITECTURE.md](https://github.com/love-os-architect/ARCHITECTURE.md)** - System architecture overview.
+* **[docs-DESIGN_DOC.md](https://github.com/love-os-architect/docs-DESIGN_DOC.md)** - Detailed design documents.
+* **[IMPLEMENTATION.md](https://github.com/love-os-architect/IMPLEMENTATION.md)** - Implementation guides.
+* **[docs-GLOSSARY.md](https://github.com/love-os-architect/docs-COSMOLOGY.md)** - Terminology and definitions.
+* **[docs](https://github.com/love-os-architect/docs)** - General documentation storage.
 
 ---
 
