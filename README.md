@@ -33,6 +33,14 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
     * The emotional processing unit and sentiment analysis kernel.
 * **[love-os-gravity](https://github.com/love-os-architect/love-os-gravity)** 🪐 *(Private)*
     * Core attraction algorithms and gravity simulation.
+* **[Love-OS-The-Physics-of-Relationships](https://github.com/love-os-architect/Love-OS-The-Physics-of-Relationships)** 👫
+
+* **[Love-OS-The-Physics-of-Relationships](https://github.com/love-os-architect/Love-OS-The-Physics-of-Relationships)** 👫
+
+* **[Love-OS-The-Physics-of-Relationships](https://github.com/love-os-architect/Love-OS-The-Physics-of-Relationships)** 👫
+
+* **[Love-OS-The-Physics-of-Relationships](https://github.com/love-os-architect/Love-OS-The-Physics-of-Relationships)** 👫
+
 
 ---
 
