@@ -76,7 +76,10 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
 ## 🧪 Prototypes & Versions (Labs)
 > Experimental builds and historical versions.
 
-* **[Love-OS-v0.6.md](https://github.com/love-os-architect/Love-OS-v0.6.md)** ✨ *(Latest Spec)*
+* **[https://github.com/love-os-architect/Love-OS-v0.7](https://github.com/love-os-architect/Love-OS-v0.7)** ✨ *(Latest Spec)*
+* 
+* **[Love-OS-v0.6.md](https://github.com/love-os-architect/Love-OS-v0.6.md)** ✨ 
+
     * The current cutting-edge specification.
 * **[LoveOS-v04](https://github.com/love-os-architect/LoveOS-v04)** 🏛️ *(Legacy)*
     * Stable legacy version archive.
