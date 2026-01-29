@@ -95,6 +95,8 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
 ## 📂 Miscellaneous & Meta
 > Project management and meta-data.
 
+
+* **[Extended-Physics-LoveOS](https://github.com/love-os-architect/Extended-Physics-LoveOS)**
 * **[Genesis-Commit](https://github.com/love-os-architect/Genesis-Commit)** - The first spark.
 * **[ROADMAP.md](https://github.com/love-os-architect/ROADMAP.md)** - Future development path.
 * **[LICENSE](https://github.com/love-os-architect/LICENSE)** - Usage rights and permissions.
