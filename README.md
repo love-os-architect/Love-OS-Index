@@ -78,9 +78,7 @@ It indexes all distributed modules, theories, prototypes, and documentation repo
 
 * **[https://github.com/love-os-architect/Love-OS-v0.8-Dual-Awareness-Engine](https://github.com/love-os-architect/Love-OS-v0.8-Dual-Awareness-Engine)** ✨ *(Latest Spec)*
 * **[https://github.com/love-os-architect/Love-OS-v0.7](https://github.com/love-os-architect/Love-OS-v0.7)** ✨
-* 
 * **[Love-OS-v0.6.md](https://github.com/love-os-architect/Love-OS-v0.6.md)** ✨ 
-
     * The current cutting-edge specification.
 * **[LoveOS-v04](https://github.com/love-os-architect/LoveOS-v04)** 🏛️ *(Legacy)*
     * Stable legacy version archive.
